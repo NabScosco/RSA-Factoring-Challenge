@@ -5,7 +5,7 @@ from sys import argv
 """
 File_name: factors
 Created: 3rd July, 2023
-Auth: Kingsley Fynn Asaaam
+Auth: Kingsley Fynn Asaam
 Size: undefined
 Project: RSA-Factoring-Challenge
 Status: submitted.
